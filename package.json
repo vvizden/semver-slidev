@@ -1,0 +1,17 @@
+{
+  "name": "semver-slidev",
+  "private": true,
+  "scripts": {
+    "dev": "slidev semver.md",
+    "build": "slidev build semver.md",
+    "export": "slidev export semver.md --dark --format pdf --output semver.pdf"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.11",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.37.1"
+  }
+}

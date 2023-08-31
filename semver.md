@@ -17,7 +17,11 @@ defaults:
 
 ## [Semantic Versioning 2.0.0](https://semver.org/lang/zh-CN/)
 
-<div class="abs-bl left-14 bottom-8">2023.08.31 vviz.</div>
+<div class="abs-bl left-14 bottom-8">
+
+2023.08.31 [vviz.](https://github.com/vvizden/semver-slidev) 
+
+</div>
 
 <style>
 code {
